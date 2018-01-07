@@ -1,4 +1,4 @@
-#Prereqs and Building: 
+#Prereqs : 
 
 Install Python 3.6.1
 
