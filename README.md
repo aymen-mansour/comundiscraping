@@ -1,4 +1,4 @@
-Objet : obtenir un CSV de toutes les pages de formations de Comundi
+Objet : obtenir un CSV de toutes les pages de formations de Comundi.fr
 
 Données à scraper :
 - url
